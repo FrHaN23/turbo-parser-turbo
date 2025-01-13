@@ -1,0 +1,8 @@
+{
+  "apps": [
+    "bar",
+    "foo",
+    "web-remote",
+    "web-root"
+  ]
+}
